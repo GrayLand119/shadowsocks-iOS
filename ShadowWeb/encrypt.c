@@ -2,7 +2,8 @@
 #include <openssl/rand.h>
 #include <strings.h>
 #include <openssl/md5.h>
-#include <sodium.h>
+//#include <sodium.h>
+#include "sodium.h"
 #include "local.h"
 #include "table.h"
 #include "encrypt.h"
